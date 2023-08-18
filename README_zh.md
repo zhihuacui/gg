@@ -57,6 +57,8 @@ gg 是一个命令行工具，可在 Linux 环境下对任意命令进行一键�
 
 ```bash
 gg config -w subscription=https://example.com/path/to/sub
+
+gg config -w node=socks5://127.0.0.1:4567
 ```
 
 克隆 linux 仓库来试试效果：
